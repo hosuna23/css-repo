@@ -1,0 +1,44 @@
+body {
+  background-color: #eeeeee;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  color: #3d3b38;
+  font-size: 48px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  color: #3d3b38;
+  font-size: 32px;
+}
+
+.button {
+  background-color: orange;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.button:hover {
+  background-color: #f0d299;
+}
+
+.price {
+  margin-left: 15px;
+}
+
+.module {
+  background-color: white;
+  padding: 25px;
+  border-radius: 15px;
+  width: 600px;
+}
